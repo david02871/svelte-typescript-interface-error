@@ -1,0 +1,1 @@
+Error: 'Foo' is not exported by src/types.ts, imported by src/App.svelte
